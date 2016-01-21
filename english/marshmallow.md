@@ -736,4 +736,6 @@ You decide that $1.5 billion is too much to pass up, so you buy a [Powerball tic
 
 [Do you have my stapler?](stapler/stapler.md)
 
+[Build a car](build-a-car/build-a-car.md)
+
 [Go for a surf](surf/surf.md)
